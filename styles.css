@@ -1,0 +1,34 @@
+body {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    font-family: "Helvetica", sans serif;
+  }
+
+  html{
+    background: url("images/main.jfif") no-repeat center fixed;
+    background-size: cover;  
+    
+  }
+
+  p,h1,h2 {
+    background: grey;
+    width: 700px;
+    border-radius: 25px;
+    text-align: center;
+    margin: 5px, auto;
+    line-height: 50px;
+  }
+
+  input, button{
+    text-align: left;
+  }
+
+  a{
+    
+  }
+
+ 
+
+
+ 
